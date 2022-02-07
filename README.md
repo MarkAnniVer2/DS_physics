@@ -1,0 +1,2 @@
+# DS_physics
+The project consists of two parts. In the first part I solve the problem of finding the heat capacity of a gas based on experimental data using data analysis methods in python, namely using linear regression. In the second part, using the chi-square test, the astronomical hypothesis is tested about the existence of a relationship between the value of the metallicity of a star and the probability of finding a giant planet near this star. 
